@@ -23,7 +23,7 @@
 | 주요 라이브러리 | `playwright`, `pandas`, `openpyxl` |
 | 크롤링 방식 | Playwright 기반 브라우저 자동화 |
 | 데이터 추출 | `/api/post/item_list/` 응답 감지 후 JSON 파싱 |
-| 실행 모드 | 기본 `headless=True`, 테스트용 `headless=False` 가능 |
+| 실행 모드 | 기본`headless=False`|
 
 ---
 
